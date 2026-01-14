@@ -24,13 +24,13 @@
 - **脚本**: `scripts/advanced_analysis.py`
 - **产出**: `output/` 目录下的所有图表和摘要。
 - **关键发现** ：
-![img.png](output/img.png)中年驾驶员的平均理赔金额最高，是风险管理的重点人群。
-![img_1.png](output/img_1.png)月度理赔趋势显示，年末理赔次数迅速降低，但平均理赔金额呈上升趋势，可能坐大型交通工具与回家过年相关。
-![img_2.png](output/img_2.png)热力图清晰揭示，“豪华型”车辆的“碰撞”事故理赔成本最高。
+![img.png](https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/img.png)中年驾驶员的平均理赔金额最高，是风险管理的重点人群。
+![img_1.png](https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/img_1.png)月度理赔趋势显示，年末理赔次数迅速降低，但平均理赔金额呈上升趋势，可能坐大型交通工具与回家过年相关。
+![img_2.png]((https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/img_2.png)热力图清晰揭示，“豪华型”车辆的“碰撞”事故理赔成本最高。
 
 ### 4. 交互式业务仪表盘
 - **脚本**: `scripts/prepare_dashboard_data.py`
-- **最终成品**:![img_3.png](output/img_3.png)![img_4.png](output/img_4.png)
+- **最终成品**:![img_3.png](https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/img_3.png)![img_4.png](https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/img_4.png)
 - **功能**：集成数据透视表、透视图及多个切片器（车型、地区、年份），业务人员可**动态交互**，快速定位特定风险场景。
 
 ## 如何运行
@@ -77,4 +77,5 @@
 - **姓名**:陈宣佐
 - **邮箱**:2031762463@qq.com
 - **GitHub**: https://github.com/RuanShuXing
+
 - **求职意向**: 寻求数据分析/数据支持相关的实习机会。
