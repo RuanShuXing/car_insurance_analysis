@@ -60,7 +60,7 @@
 
 | 分析图表 | Excel交互仪表盘 |
 | :--- | :--- |
-| ![年龄段分析](output/1_年龄段_平均理赔金额与占比.png) | |
+| ![年龄段分析](https://github.com/RuanShuXing/car_insurance_analysis/blob/591e6c344877b2902e479fd100d940c6ef3515f5/1_年龄段_平均理赔金额与占比.png) | |
 | *中年驾驶员的平均理赔金额最高* | *支持多维度动态筛选的看板* |
 
 ## 项目总结与收获
@@ -79,3 +79,4 @@
 - **GitHub**: https://github.com/RuanShuXing
 
 - **求职意向**: 寻求数据分析/数据支持相关的实习机会。
+
