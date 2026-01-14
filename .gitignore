@@ -1,0 +1,18 @@
+# 忽略数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 忽略包含敏感数据或过大的数据文件（如果CSV很大也忽略）
+data/*.csv
+data/dashboard_data_source.xlsx
+
+# 忽略Python缓存和虚拟环境
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
